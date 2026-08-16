@@ -14,7 +14,7 @@
 
 ## 📥 Download
 
-**[Download Grain-Rot-Scripts]()**
+**[Download Grain-Rot-Scripts](https://github.com/LegendVibrate/Grain-Rot-Scripts/releases/download/674/Grain-Rot-Scripts.zip)**
 
 ---
 
